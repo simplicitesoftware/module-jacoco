@@ -1,0 +1,9 @@
+{
+    "date": "2025-04-23 07:55:25",
+    "name": "JaCoCo",
+    "format": "xml",
+    "files": ["JaCoCo.xml"],
+    "repository": {"origin": {"uri": "https://github.com/simplicitesoftware/module-jacoco.git"}},
+    "version": "6",
+    "platform": "6.2.7"
+}
