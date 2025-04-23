@@ -11,7 +11,10 @@
 `JaCoCo` module definition
 ==========================
 
+JaCoCo
+======
 
+JaCoCo report integration in the UI
 
 `JaCoCoReport` external object definition
 -----------------------------------------

@@ -12,7 +12,10 @@
     "type": "git"
 }]]></mdl_url>
 		<mdl_type>X</mdl_type>
-		<mdl_comment/>
+		<mdl_comment><![CDATA[JaCoCo
+======
+
+JaCoCo report integration in the UI]]></mdl_comment>
 	</data>
 </object>
 <object>
